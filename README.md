@@ -39,6 +39,7 @@ php artisan filament:optimize-clear
 ```bash 
 php artisan optimize:clear
 ```
+- run development server
 ```bash 
 php artisan serve
 ```
