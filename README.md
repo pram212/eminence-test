@@ -9,9 +9,15 @@ This test uses Laravel and Filament. Please make sure to follow the installation
 ---
 
 ### Installation
-- Clone this repository.
-- Open the terminal in the root directory of the project.
-- Run the following commands:
+1. Clone this repository.
+```bash
+git clone https://github.com/pram212/eminence-test.git
+```
+2. After cloning the repository, navigate into the project directory.
+```bash
+cd eminence-test
+```
+3. Run the following commands:
 - install dependencies
 ```bash 
 composer install
